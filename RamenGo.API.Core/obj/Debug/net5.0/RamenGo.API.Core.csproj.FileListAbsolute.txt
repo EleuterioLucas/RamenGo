@@ -1,0 +1,12 @@
+C:\projectsDotNet\5\RamenGo.API\RamenGo.API.Core\bin\Debug\net5.0\RamenGo.API.Core.deps.json
+C:\projectsDotNet\5\RamenGo.API\RamenGo.API.Core\bin\Debug\net5.0\RamenGo.API.Core.dll
+C:\projectsDotNet\5\RamenGo.API\RamenGo.API.Core\bin\Debug\net5.0\RamenGo.API.Core.pdb
+C:\projectsDotNet\5\RamenGo.API\RamenGo.API.Core\obj\Debug\net5.0\RamenGo.API.Core.csproj.AssemblyReference.cache
+C:\projectsDotNet\5\RamenGo.API\RamenGo.API.Core\obj\Debug\net5.0\RamenGo.API.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\projectsDotNet\5\RamenGo.API\RamenGo.API.Core\obj\Debug\net5.0\RamenGo.API.Core.AssemblyInfoInputs.cache
+C:\projectsDotNet\5\RamenGo.API\RamenGo.API.Core\obj\Debug\net5.0\RamenGo.API.Core.AssemblyInfo.cs
+C:\projectsDotNet\5\RamenGo.API\RamenGo.API.Core\obj\Debug\net5.0\RamenGo.API.Core.csproj.CoreCompileInputs.cache
+C:\projectsDotNet\5\RamenGo.API\RamenGo.API.Core\obj\Debug\net5.0\RamenGo.API.Core.dll
+C:\projectsDotNet\5\RamenGo.API\RamenGo.API.Core\obj\Debug\net5.0\refint\RamenGo.API.Core.dll
+C:\projectsDotNet\5\RamenGo.API\RamenGo.API.Core\obj\Debug\net5.0\RamenGo.API.Core.pdb
+C:\projectsDotNet\5\RamenGo.API\RamenGo.API.Core\obj\Debug\net5.0\ref\RamenGo.API.Core.dll
